@@ -1,0 +1,5 @@
+interface:
+  display_name: "职教PPT逐字稿"
+  short_description: "按PPT逐页生成可直接照读的彩色Word课堂逐字稿"
+  default_prompt: "请根据我提供的PPT和教学资料，制作与PPT逐页对应、只包含教师说话内容的课堂逐字稿Word文件。"
+
