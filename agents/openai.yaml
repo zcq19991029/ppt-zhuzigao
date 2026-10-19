@@ -1,4 +1,5 @@
 interface:
-  display_name: "PPT逐字稿助手"
-  short_description: "按PPT逐页生成可直接照读的彩色Word课堂逐字稿"
-  default_prompt: "请使用 $ppt-script，根据我提供的PPT和教学资料，制作与PPT逐页对应、只包含教师说话内容的课堂逐字稿Word文件。"
+  display_name: "职教PPT逐字稿"
+  short_description: "一页PPT一页讲稿，白字红绿蓝标题条，支持平板PDF阅读"
+  default_prompt: "请根据我提供的PPT和教学资料制作教师逐字稿，一页PPT对应一整页，标题条纯白字、红绿蓝底色循环，正文只包含教师可以直接说的话。平板阅读时同时提供同页序PDF。"
+
